@@ -14,7 +14,7 @@
 
     <article>
       <?php
-        echo "<h1>Server Information</h1>";
+        echo "<h2>Server Information</h2>";
         echo "<p>".date("Y-m-d H:i:s")."</p>";
         echo "<br>";
         echo phpinfo();
