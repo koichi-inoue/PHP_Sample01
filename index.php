@@ -3,7 +3,7 @@
 
   <head>
     <meta charset="utf-8">
-    <title>ECHO SAMPLE</title>
+    <title>PHP Sample01</title>
   </head>
 
   <body>
